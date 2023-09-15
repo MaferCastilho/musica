@@ -21,7 +21,7 @@ O site é para você selecionar mais de um tipo de genêro musical e mostrar a q
 🔸HTML5  
 🔸CSS3  
 ## 📃Fontes consultadas  
-🔻https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
+🔻[lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README
 ## ✒️Autores  
 🤍Maria Fernanda  
 🖤[Janaina](https://github.com/janapaulinoo)  
