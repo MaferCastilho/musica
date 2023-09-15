@@ -1,10 +1,10 @@
 ## ♾️Índice
-[Projeto - Música](#📁projeto---música)  
-[Descrição](#📝descrição)  
-[Funcionalidades](#🔧funcionalidades)  
-[Tecnologias Utilizadas](#💻tecnologias-utilizadas)  
-[Fontes consultadas](#📃fontes-consultadas)   
-[Autores](#✒️autores)   
+[Projeto - Música](#projeto---m%C3%BAsica-)  
+[Descrição](#descri%C3%A7%C3%A3o)  
+[Funcionalidades](#funcionalidades)  
+[Tecnologias Utilizadas](#tecnologias-utilizadas)  
+[Fontes consultadas](#fontes-consultadas)   
+[Autores](#%EF%B8%8Fautores)   
 
 ## 📁Projeto - Música 🎵
 ![image info](_img/tela.png)
